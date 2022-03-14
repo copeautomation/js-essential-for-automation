@@ -44,9 +44,9 @@ class LoginPage extends Page {
 let loginPg = new LoginPage()
 // console.log(typeof loginPg); // object
 
-// // Calling a parents' metho
-// loginPg.navigateTo("google.com")
+// Calling a parents' metho
+loginPg.navigateTo("google.com")
 
-// // calling the own method
-// loginPg.clickLoginBtn()
+// calling the own method
+loginPg.clickLoginBtn()
 
