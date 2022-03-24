@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "demo": "node ./wk6/node/file-sys/readfile.js > output.txt"
+    "demo": "node ./wk6/err-handling/tryCatch.js"
   },
   "keywords": [
     "js",
